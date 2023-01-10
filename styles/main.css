@@ -1,0 +1,37 @@
+.shop {
+   
+    width: 300px;
+    padding-left: .3em;
+    text-align: left;
+    border: 2px dotted black;
+    
+
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 2em;
+    padding: 1em;
+  
+   
+    
+}
+.pageHeader {
+    text-align: center;
+}
+
+
+body {
+    background-color:blanchedalmond;
+    text-align: left;
+}
+.basicInformation {
+    text-align: center;
+}
+
+#image {
+    width: 200px;
+    height: 300px;
+}
